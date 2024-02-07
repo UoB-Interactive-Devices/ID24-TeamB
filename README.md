@@ -10,3 +10,4 @@ sa# ID24-TeamB
 7. Sensor technology is used to trigger corresponding story telling based on the visitor's location and movements.
 8. Provide a digital time capsule that allows visitors to upload and share stories, photos or videos related to the museum.
 9. A digital drawing pad where users can draw and the drawings will get "alive" and start moving around the room
+10. Shape-changing NFC token as users enter into different rooms
