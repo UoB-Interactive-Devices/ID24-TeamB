@@ -1,4 +1,15 @@
-sa# ID24-TeamB
+# ID24-TeamB
+
+## 2 main ideas 
+### Idea 1: Tangible lego exhibit
+* Target audience: Children
+* Why: Tangible tokens are shown to encourage greater enagagement and collaboration, which allows users to learn more
+* What: A tangible game exhibit where children can solve a lego activity together. It has to be solved by >=2 people. Progress bar will be shown at the side, and once solved, the completed piece will light up
+
+### Idea 2: Tangible treasure Hunt 
+* Target Audience: Children/Adults
+* Why: Research has shown that a treasure hunt could guide users to be more engaged
+* What: Users will be given a map at the start of the exhibit. Users can go to the different sections of the exhibits to collect lego pieces/tokens. Once completed, it can be formed as a key to a treasure box
 
 ## Ideas 
 1. NFC token to bring through the users to different exhibits on the ship. Allows for customised tour
