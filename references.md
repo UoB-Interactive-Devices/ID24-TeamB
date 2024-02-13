@@ -13,3 +13,14 @@
 * https://dl.acm.org/doi/pdf/10.1145/2839462.2839493
 * https://dl.acm.org/doi/full/10.1145/3631132
 * Smart replicas are designed to allow visitors to explore objects and places in the exhibition from different perspectives, based on personal stories gathered from eyewitnesses
+
+### Tangible tokens
+* Tangible tokens encourages more exploratory actions in museums.
+* Tangible tokens to explore creating a bacteria in MARS: https://dl.acm.org/doi/pdf/10.1145/3024969.3025000
+* Tangible museum exhibit for bio-deisgn: https://dl.acm.org/doi/pdf/10.1145/2839462.2839488
+
+### Games 
+* Tangible puzzles in the interactive musuems allowed children to have collaborative and fun learning
+* Progress bar to show reward as children solve each task, collaborative learning by splitting children into 3 groups
+* Lego questionnaire 
+* https://dl.acm.org/doi/pdf/10.1145/3350427
