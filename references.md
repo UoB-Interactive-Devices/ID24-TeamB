@@ -12,6 +12,7 @@
 ### Design, creation and use of tangible smart replicas
 * https://dl.acm.org/doi/pdf/10.1145/2839462.2839493
 * https://dl.acm.org/doi/full/10.1145/3631132
+* https://www.mdpi.com/2071-1050/15/17/12689
 * Smart replicas are designed to allow visitors to explore objects and places in the exhibition from different perspectives, based on personal stories gathered from eyewitnesses
 
 ### Tangible tokens
