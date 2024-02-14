@@ -22,3 +22,6 @@
 8. Provide a digital time capsule that allows visitors to upload and share stories, photos or videos related to the museum.
 9. A digital drawing pad where users can draw and the drawings will get "alive" and start moving around the room
 10. Shape-changing NFC token as users enter into different rooms
+11. Smart Guide Bracelet: This bracelet integrates positioning, voice guide, exhibit information retrieval and other functions.
+12. Digital item Recovery station: Set up some small, self-service digital object retrieval stations in the museum, if visitors lose personal belongings, they can enter a description of the lost items or upload pictures of the lost items in these sites.
+13. "Exhibit Interactive feedback device". The installation is designed to enhance the interaction between visitors and the exhibits, while collecting feedback from visitors to optimize the content and layout of the exhibition, with specific functions and features.
