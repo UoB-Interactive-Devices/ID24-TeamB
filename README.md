@@ -25,3 +25,5 @@
 11. Smart Guide Bracelet: This bracelet integrates positioning, voice guide, exhibit information retrieval and other functions.
 12. Digital item Recovery station: Set up some small, self-service digital object retrieval stations in the museum, if visitors lose personal belongings, they can enter a description of the lost items or upload pictures of the lost items in these sites.
 13. "Exhibit Interactive feedback device". The installation is designed to enhance the interaction between visitors and the exhibits, while collecting feedback from visitors to optimize the content and layout of the exhibition, with specific functions and features.
+14. Create a digital online map of museum to guide tourists.
+15. Project some motion-sensing games the museum grounds to prevent visitors feeling bored while waiting.
