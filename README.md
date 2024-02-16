@@ -27,3 +27,6 @@
 13. "Exhibit Interactive feedback device". The installation is designed to enhance the interaction between visitors and the exhibits, while collecting feedback from visitors to optimize the content and layout of the exhibition, with specific functions and features.
 14. Create a digital online map of museum to guide tourists.
 15. Project some motion-sensing games the museum grounds to prevent visitors feeling bored while waiting.
+16. VR/AR: VR creates full virtual experiences, while AR enhances reality with digital overlays for interactive experiences blending real and virtual.
+17.AI: AI streamlines data processing and decision-making, offering predictive analysis and smart suggestions.
+18.3D Printing: This tech allows quick creation of complex models, speeding up design processes and cutting costs.
