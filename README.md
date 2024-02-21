@@ -1,5 +1,9 @@
 # ID24-TeamB
 
+## TAs ##
+- Primary TA: Grace
+- Secondary TA: Ellen
+
 ## 2 main ideas 
 ### Idea 1: Tangible lego exhibit
 * Target audience: Children
