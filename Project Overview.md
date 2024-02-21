@@ -8,6 +8,9 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 ### Hubble Space Telescope
 - The current exhibit looks like this: https://science.nasa.gov/mission/hubble/overview/at-the-museum/
 - Having holographic images can enhance the experience
+
+![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/57c32cf3-e958-4314-b37a-a2d79c55dd5a)
+
   
 ![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/79ad012e-e731-4723-9305-b472896dd184)
 
