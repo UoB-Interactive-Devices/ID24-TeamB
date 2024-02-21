@@ -4,6 +4,10 @@
 ## Goal:
 Utilize 3D printing technology for creating intelligent replicas and integrate holographic projection with ChatGPT-powered artificial intelligence voice to provide museum visitors with a more immersive and interactive experience, fostering a deeper understanding and appreciation of artworks.
 
+## Prototype 1 
+### Hubble Space Telescope
+![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/79ad012e-e731-4723-9305-b472896dd184)
+
 # Project Process:
 
 ## 1.Requirements Analysis
