@@ -4,11 +4,10 @@
 - Primary TA: Grace
 - Secondary TA: Ellen
 
-## Project Name ## 
-## Intelligent Interactive Museum Art Exploration Device
+## Project: Intelligent Interactive Museum Art Exploration Device ##
 
-## Goal:
-Utilize 3D printing technology for creating intelligent replicas and integrate holographic projection with ChatGPT-powered artificial intelligence voice to provide museum visitors with a more immersive and interactive experience, fostering a deeper understanding and appreciation of artworks.
+## Goal 
+Utilize 3D printing technology for creating intelligent replicas and integrate holographic projection with ChatGPT-powered artificial intelligence voice to provide museum visitors with a more interactive experience, fostering a deeper understanding and appreciation of artworks.
 
 ## Prototype 1 
 ### James Webb Technologies
