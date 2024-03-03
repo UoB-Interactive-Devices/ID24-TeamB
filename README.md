@@ -11,9 +11,17 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 
 ## Prototype 1 
 ### James Webb Technologies
-- The current exhibit looks like this: https://science.nasa.gov/mission/hubble/overview/at-the-museum/
-- Having holographic images can enhance the experience
+- Why the James Webb telescope?
+  - The latest telescope, sent out in 2021
+  - Has a unique origami feature where the telescope will fold on itself
+  - Having a smart replica for users to see how it folds can enhance the experience + current exhibits does not show it
+  - Showcasing the images from the telescope provides a more immersie experience
+
+- James Webb Deployment sequence: https://webbtelescope.org/contents/media/videos/1058-Video
 - 3D STL file: https://www.printables.com/model/109816-unfolding-james-webb-space-telescope-jwst
+- Current exhibitions for James webb
+  - https://www.nasa.gov/missions/webb/nasas-webb-telescope-inspires-artechouse-exhibit-public-art/
+  - https://hk.space.museum/en/web/spm/exhibitions/permanent-exhibition/jwst.html
 
 ![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/22ead702-fa92-47d1-bda9-9ef964106080)
 
