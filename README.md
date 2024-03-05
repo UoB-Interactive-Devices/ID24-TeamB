@@ -31,6 +31,3 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 ## Reference
 ### 3D Object Visualization using Interactive Holographic Projection
     https://ieeexplore.ieee.org/abstract/document/9297919
-### Holographic Projection Technology in the Field of Digital Media Art
-    https://www.hindawi.com/journals/wcmc/2021/9997037/
-
