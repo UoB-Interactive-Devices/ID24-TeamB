@@ -25,9 +25,11 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 
 ![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/22ead702-fa92-47d1-bda9-9ef964106080)
 
+### 3 Confirmed features:
+1. Projection
+2. Interaction with a sun
+3. ChatGPT voice recognition?
 
-  
-![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/79ad012e-e731-4723-9305-b472896dd184)
 ## Reference
 ### 3D Object Visualization using Interactive Holographic Projection
     https://ieeexplore.ieee.org/abstract/document/9297919
