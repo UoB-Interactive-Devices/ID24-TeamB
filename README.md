@@ -36,7 +36,7 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 ### 3 Confirmed features:
 1. Projection with MPU6050 and project different image
 2. Light sensitive to the sun, red LED starts blinking because too hot
-3. 
+3. Closing closes the projection
 4. ChatGPT voice recognition?
 
 ## Reference
