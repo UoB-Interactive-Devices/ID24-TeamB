@@ -10,7 +10,6 @@
 Utilize 3D printing technology for creating intelligent replicas and integrate holographic projection with ChatGPT-powered artificial intelligence voice to provide museum visitors with a more interactive experience, fostering a deeper understanding and appreciation of artworks.
 
 ## Timeline 
-- 4th March 
 - 11th March 
 - 18th March 
 - 3 Week easter break 
