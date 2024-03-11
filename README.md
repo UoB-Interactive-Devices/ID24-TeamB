@@ -32,7 +32,7 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 
 ![image](https://github.com/UoB-Interactive-Devices/ID24-TeamB/assets/89033445/22ead702-fa92-47d1-bda9-9ef964106080)
 
-### 3 Confirmed features:
+### 4 Confirmed features:
 1. Projection with MPU6050 and project different image
 2. Light sensitive to the sun, red LED starts blinking because too hot (finished)
 3. Closing closes the projection
