@@ -47,9 +47,7 @@ https://www.overleaf.com/9798541461hjnprxnddsvw#2e7680
 
 
 
-Implementation of MPU6050 control projector
-
-
+# Implementation of MPU6050 control projector
 #include <Wire.h>
 #include <MPU6050.h>
 
@@ -83,9 +81,11 @@ void loop() {
 
   delay(100); // 稍作延迟以便观察
 }
-//用于读取陀螺仪的数据
 
-python端
+
+
+
+# Accept code in python and control image changes
 
 import serial
 import time
@@ -106,8 +106,6 @@ except KeyboardInterrupt:
 finally:
     ser.close()
 
-
-    //用于控制播放图片
 
 
 
