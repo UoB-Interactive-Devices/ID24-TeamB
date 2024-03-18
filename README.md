@@ -44,3 +44,70 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 
 ## Thesis
 https://www.overleaf.com/9798541461hjnprxnddsvw#2e7680
+
+
+
+Implementation of MPU6050 control projector
+
+
+#include <Wire.h>
+#include <MPU6050.h>
+
+MPU6050 mpu;
+
+void setup() {
+  Serial.begin(115200);
+  Wire.begin();
+  mpu.initialize();
+  if (!mpu.testConnection()) {
+    Serial.println("MPU6050 connection failed");
+    while(1);
+  }
+}
+
+void loop() {
+  // 结构体用于存储加速度和陀螺仪数据
+  int16_t ax, ay, az;
+  int16_t gx, gy, gz;
+
+  // 读取原始加速度和陀螺仪值
+  mpu.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);
+
+  // 发送数据到串口
+  Serial.print("aX = "); Serial.print(ax);
+  Serial.print(" | aY = "); Serial.print(ay);
+  Serial.print(" | aZ = "); Serial.print(az);
+  Serial.print(" | gX = "); Serial.print(gx);
+  Serial.print(" | gY = "); Serial.print(gy);
+  Serial.print(" | gZ = "); Serial.println(gz);
+
+  delay(100); // 稍作延迟以便观察
+}
+//用于读取陀螺仪的数据
+
+python端
+
+import serial
+import time
+
+# 更换成你的串口名
+ser = serial.Serial('COM3', 115200, timeout=1)
+time.sleep(2) # 等待连接稳定
+
+try:
+    while True:
+        if ser.in_waiting > 0:
+            line = ser.readline().decode('utf-8').rstrip()
+            print(line)
+            # 根据line的值来显示不同的图片
+            # 这里需要你根据实际情况来编写代码
+except KeyboardInterrupt:
+    print("程序结束")
+finally:
+    ser.close()
+
+
+    //用于控制播放图片
+
+
+
