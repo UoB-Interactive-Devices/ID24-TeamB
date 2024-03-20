@@ -6,15 +6,12 @@
 
 ## Project: Intelligent Interactive Museum Art Exploration Device ##
 
+## Thesis
+https://www.overleaf.com/9798541461hjnprxnddsvw#2e7680
+
+
 ## Goal 
 Utilize 3D printing technology for creating intelligent replicas and integrate holographic projection with ChatGPT-powered artificial intelligence voice to provide museum visitors with a more interactive experience, fostering a deeper understanding and appreciation of artworks.
-
-## Timeline 
-- 11th March 
-- 18th March 
-- 3 Week easter break 
-- 15th April 
-- 22nd April 
 
 ## Prototype 1 
 ### James Webb Technologies
@@ -41,9 +38,6 @@ Utilize 3D printing technology for creating intelligent replicas and integrate h
 ## Reference
 ### 3D Object Visualization using Interactive Holographic Projection
     https://ieeexplore.ieee.org/abstract/document/9297919
-
-## Thesis
-https://www.overleaf.com/9798541461hjnprxnddsvw#2e7680
 
 
 
